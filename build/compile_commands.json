@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/coding/Qtproject/MusicPlayer/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MusicPlayer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MusicPlayer.dir\\MusicPlayer_autogen\\mocs_compilation.cpp.obj -c D:\\coding\\Qtproject\\MusicPlayer\\build\\MusicPlayer_autogen\\mocs_compilation.cpp",
+  "file": "D:/coding/Qtproject/MusicPlayer/build/MusicPlayer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/coding/Qtproject/MusicPlayer/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MusicPlayer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MusicPlayer.dir\\main.cpp.obj -c D:\\coding\\Qtproject\\MusicPlayer\\main.cpp",
+  "file": "D:/coding/Qtproject/MusicPlayer/main.cpp",
+  "output": "CMakeFiles/MusicPlayer.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/coding/Qtproject/MusicPlayer/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MusicPlayer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MusicPlayer.dir\\widget.cpp.obj -c D:\\coding\\Qtproject\\MusicPlayer\\widget.cpp",
+  "file": "D:/coding/Qtproject/MusicPlayer/widget.cpp",
+  "output": "CMakeFiles/MusicPlayer.dir/widget.cpp.obj"
+},
+{
+  "directory": "D:/coding/Qtproject/MusicPlayer/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/MusicPlayer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MusicPlayer.dir\\MusicPlayer_autogen\\EWIEGA46WW\\qrc_file.cpp.obj -c D:\\coding\\Qtproject\\MusicPlayer\\build\\MusicPlayer_autogen\\EWIEGA46WW\\qrc_file.cpp",
+  "file": "D:/coding/Qtproject/MusicPlayer/build/MusicPlayer_autogen/EWIEGA46WW/qrc_file.cpp",
+  "output": "CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/EWIEGA46WW/qrc_file.cpp.obj"
+}
+]

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file/dir.png</file>
+        <file>file/list.png</file>
+        <file>file/next.png</file>
+        <file>file/one.png</file>
+        <file>file/pause.png</file>
+        <file>file/playing.png</file>
+        <file>file/prev.png</file>
+        <file>file/random.png</file>
+        <file>file/repeat.png</file>
+        <file>file/volume.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
