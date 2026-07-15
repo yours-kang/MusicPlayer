@@ -48,7 +48,7 @@
 2. 使用 CMake 配置并构建
    ```bash
    mkdir build && cd build
-   cmake .. -DCMAKE_PREFIX_PATH=<你的Qt安装路径>   # 若Qt不在系统默认路径，需指定
+   cmake .. -DCMAKE_PREFIX_PATH=<你的Qt安装路径>   
    cmake --build . --config Release
    ```
 
@@ -79,14 +79,6 @@
 - **框架**：Qt（Widgets + Multimedia）
 - **构建工具**：CMake
 - **音频解码**：Qt Multimedia 后端（基于系统多媒体框架）
-
----
-
-## 📸 截图
-
-*（建议添加实际运行截图，例如在根目录创建 `screenshots` 文件夹，放入 `main.png` 后取消下面一行的注释）*
-
-<!-- ![主界面](screenshots/main.png) -->
 
 ---
 
